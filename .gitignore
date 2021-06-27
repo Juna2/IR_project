@@ -1,0 +1,3 @@
+./server_rsync_all.sh
+./server_rsync_all_send.sh
+./copy_project.sh
